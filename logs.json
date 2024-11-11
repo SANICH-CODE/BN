@@ -1,0 +1,26 @@
+{
+    "2024-11-11": {
+        "00:00:00": [
+            "00:00:00 | Система | Логи стерты"
+        ],
+        "17:55:21": [
+            "17:55:21 | Запрос истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "17:55:22": [
+            "17:55:22 | Выдача истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "18:10:51": [
+            "18:10:51 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "18:10:52": [
+            "18:10:52 | Выбор города Переходник | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "18:10:54": [
+            "18:10:54 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "18:11:10": [
+            "18:11:10 | Запрос данных пользоватеелей | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System",
+            "18:11:10 | Выдача данных пользоватеелей | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ]
+    }
+}

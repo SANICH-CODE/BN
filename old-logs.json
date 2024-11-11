@@ -1,0 +1,820 @@
+{
+    "2024-09-30": {
+        "09:07:38": [
+            "09:07:38 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "09:16:02": [
+            "09:16:02 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ]
+    },
+    "2024-10-01": {
+        "20:45:30": [
+            "20:45:30 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "20:45:33": [
+            "20:45:33 | Профиль | UserID: 6978792645, Username: sergei_nikitka"
+        ]
+    },
+    "2024-10-03": {
+        "08:39:51": [
+            "08:39:51 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "18:04:50": [
+            "18:04:50 | TEST | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "18:07:57": [
+            "18:07:57 | Снятие прав администратора | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6978792645"
+        ],
+        "18:09:01": [
+            "18:09:01 | Снятие BN Plus | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6978792645"
+        ],
+        "18:09:38": [
+            "18:09:38 | Запрос истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System",
+            "18:09:38 | Выдача истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "18:09:59": [
+            "18:09:59 | Выдача прав администратора | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6978792645"
+        ],
+        "18:10:09": [
+            "18:10:09 | Выдача BN Plus | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6978792645"
+        ],
+        "19:37:02": [
+            "19:37:02 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:14": [
+            "19:37:14 | Открыты настройки (администратор) | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:19": [
+            "19:37:19 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:21": [
+            "19:37:21 | Профиль | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:25": [
+            "19:37:25 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:27": [
+            "19:37:27 | Выбор города Переходник | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:28": [
+            "19:37:28 | Выбор города | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:29": [
+            "19:37:29 | Выбор - Могилев | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:33": [
+            "19:37:33 | Могилев - Движ | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:35": [
+            "19:37:35 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:38": [
+            "19:37:38 | Выбор города Переходник | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:39": [
+            "19:37:39 | Выбор города | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:40": [
+            "19:37:40 | Выбор - Могилев | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:37:42": [
+            "19:37:42 | Могилев - История | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "19:38:23": [
+            "19:38:23 | Выбор - Могилев | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "21:11:26": [
+            "21:11:26 | TEST | UserID: 6978792645, Username: sergei_nikitka"
+        ]
+    },
+    "2024-10-04": {
+        "20:29:57": [
+            "20:29:57 | Снятие прав администратора | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6978792645"
+        ],
+        "20:31:32": [
+            "20:31:32 | Снятие прав администратора | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6978792645"
+        ],
+        "20:36:26": [
+            "20:36:26 | Запрос истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System",
+            "20:36:26 | Выдача истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "20:42:14": [
+            "20:42:14 | Выдача BN Plus | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "20:54:49": [
+            "20:54:49 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "20:55:01": [
+            "20:55:01 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "20:55:11": [
+            "20:55:11 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:02:33": [
+            "21:02:33 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:02:42": [
+            "21:02:42 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:02:47": [
+            "21:02:47 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065"
+        ],
+        "21:11:54": [
+            "21:11:54 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:12:40": [
+            "21:12:40 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:12:49": [
+            "21:12:49 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:12:59": [
+            "21:12:59 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:14:08": [
+            "21:14:08 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6978792645"
+        ],
+        "21:14:27": [
+            "21:14:27 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:14:44": [
+            "21:14:44 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:18:34": [
+            "21:18:34 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:20:40": [
+            "21:20:40 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:20:48": [
+            "21:20:48 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:54:33": [
+            "21:54:33 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:54:52": [
+            "21:54:52 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "21:55:45": [
+            "21:55:45 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "22:04:11": [
+            "22:04:11 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ]
+    },
+    "2024-10-05": {
+        "10:21:47": [
+            "10:21:47 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "10:22:21": [
+            "10:22:21 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "10:23:33": [
+            "10:23:33 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "10:57:34": [
+            "10:57:34 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "11:09:14": [
+            "11:09:14 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065"
+        ],
+        "11:09:22": [
+            "11:09:22 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "11:10:31": [
+            "11:10:31 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "11:10:32": [
+            "11:10:32 | Профиль | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "11:10:42": [
+            "11:10:42 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "11:10:43": [
+            "11:10:43 | Профиль | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "11:10:56": [
+            "11:10:56 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "11:10:57": [
+            "11:10:57 | Профиль | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "11:11:30": [
+            "11:11:30 | Удаление данных | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "15:22:42": [
+            "15:22:42 | Выбор города Переходник | UserID: 704982588, Username: rezakat"
+        ],
+        "15:23:04": [
+            "15:23:04 | Запрос истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System",
+            "15:23:04 | Выдача истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "15:23:25": [
+            "15:23:25 | Профиль | UserID: 704982588, Username: rezakat"
+        ],
+        "15:23:42": [
+            "15:23:42 | TEST | UserID: 704982588, Username: rezakat"
+        ],
+        "15:24:26": [
+            "15:24:26 | Профиль | UserID: 704982588, Username: rezakat"
+        ],
+        "15:24:51": [
+            "15:24:51 | TEST | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "15:26:11": [
+            "15:26:11 | Профиль | UserID: 704982588, Username: rezakat"
+        ],
+        "15:26:29": [
+            "15:26:29 | Открыты настройки (администратор) | UserID: 704982588, Username: rezakat"
+        ],
+        "15:26:53": [
+            "15:26:53 | Выбор города Переходник | UserID: 704982588, Username: rezakat"
+        ],
+        "15:26:55": [
+            "15:26:55 | Выбор города | UserID: 704982588, Username: rezakat"
+        ],
+        "15:27:06": [
+            "15:27:06 | Выбор - Могилев | UserID: 704982588, Username: rezakat"
+        ],
+        "15:27:12": [
+            "15:27:12 | Могилев - Движ | UserID: 704982588, Username: rezakat"
+        ],
+        "15:36:22": [
+            "15:36:22 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588"
+        ],
+        "15:36:32": [
+            "15:36:32 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "15:36:34": [
+            "15:36:34 | Блокировка | AdminID: console, Adminname: console, UserID: 704982588, Причина Не указано"
+        ],
+        "15:36:59": [
+            "15:36:59 | Блокировка | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588, Причина ХУЙ"
+        ],
+        "15:37:13": [
+            "15:37:13 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588"
+        ],
+        "15:37:15": [
+            "15:37:15 | Разлокировка | AdminID: console, Adminname: console, UserID: 704982588, Причина Не указано"
+        ],
+        "15:37:29": [
+            "15:37:29 | Разблокировка | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588, Причина ХУЙ"
+        ],
+        "15:37:45": [
+            "15:37:45 | Выдача BN Plus | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588"
+        ],
+        "15:42:23": [
+            "15:42:23 | Снятие прав администратора | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6978792645"
+        ]
+    },
+    "2024-10-06": {
+        "21:12:38": [
+            "21:12:38 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "21:12:39": [
+            "21:12:39 | Открыты настройки (администратор) | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "21:12:43": [
+            "21:12:43 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "21:13:33": [
+            "21:13:33 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "21:39:41": [
+            "21:39:41 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "21:39:43": [
+            "21:39:43 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "21:45:38": [
+            "21:45:38 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "21:45:40": [
+            "21:45:40 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "21:45:43": [
+            "21:45:43 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "21:51:04": [
+            "21:51:04 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ]
+    },
+    "2024-10-07": {
+        "07:47:37": [
+            "07:47:37 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "07:47:47": [
+            "07:47:47 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "07:47:49": [
+            "07:47:49 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "07:47:51": [
+            "07:47:51 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "07:47:53": [
+            "07:47:53 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "07:48:14": [
+            "07:48:14 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "07:48:30": [
+            "07:48:30 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "07:48:33": [
+            "07:48:33 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "08:05:35": [
+            "08:05:35 | Открыты настройки (администратор) | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "08:05:48": [
+            "08:05:48 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "08:59:43": [
+            "08:59:43 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "10:02:29": [
+            "10:02:29 | Профиль | UserID: 704982588, Username: rezakat"
+        ],
+        "10:02:31": [
+            "10:02:31 | Меню | UserID: 704982588, Username: rezakat"
+        ],
+        "10:02:33": [
+            "10:02:33 | Открыты настройки (администратор) | UserID: 704982588, Username: rezakat"
+        ],
+        "10:02:39": [
+            "10:02:39 | Меню | UserID: 704982588, Username: rezakat"
+        ],
+        "10:03:39": [
+            "10:03:39 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588"
+        ],
+        "10:03:41": [
+            "10:03:41 | Снятие прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "10:03:47": [
+            "10:03:47 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588"
+        ],
+        "10:03:49": [
+            "10:03:49 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "10:04:11": [
+            "10:04:11 | Блокировка | AdminID: 704982588, Adminname: rezakat, UserID: 5001983065, Причина хуй"
+        ],
+        "10:08:08": [
+            "10:08:08 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "10:08:10": [
+            "10:08:10 | Разлокировка | AdminID: console, Adminname: console, UserID: 5001983065, Причина Не указано"
+        ],
+        "10:08:15": [
+            "10:08:15 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065"
+        ],
+        "10:08:16": [
+            "10:08:16 | Блокировка | AdminID: console, Adminname: console, UserID: 5001983065, Причина Не указано"
+        ],
+        "10:09:05": [
+            "10:09:05 | Блокировка | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065, Причина Не_говорит_что_хочет_Великий_админ"
+        ],
+        "10:11:46": [
+            "10:11:46 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065"
+        ],
+        "10:11:53": [
+            "10:11:53 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065"
+        ],
+        "10:11:54": [
+            "10:11:54 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065",
+            "10:11:54 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065",
+            "10:11:54 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065",
+            "10:11:54 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065"
+        ],
+        "10:12:00": [
+            "10:12:00 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065"
+        ],
+        "10:12:01": [
+            "10:12:01 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065",
+            "10:12:01 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065",
+            "10:12:01 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065"
+        ],
+        "10:12:02": [
+            "10:12:02 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065"
+        ],
+        "10:12:07": [
+            "10:12:07 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065"
+        ],
+        "10:12:17": [
+            "10:12:17 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065"
+        ],
+        "10:12:23": [
+            "10:12:23 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065"
+        ],
+        "10:12:26": [
+            "10:12:26 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 5001983065"
+        ],
+        "10:12:44": [
+            "10:12:44 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588"
+        ],
+        "10:12:46": [
+            "10:12:46 | Снятие прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "10:12:49": [
+            "10:12:49 | Снятие прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "10:12:51": [
+            "10:12:51 | Снятие прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "10:12:53": [
+            "10:12:53 | Снятие прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "10:12:54": [
+            "10:12:54 | Снятие прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "10:12:57": [
+            "10:12:57 | Снятие прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "10:13:00": [
+            "10:13:00 | Снятие прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "10:13:02": [
+            "10:13:02 | Снятие прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "10:13:04": [
+            "10:13:04 | Блокировка | AdminID: console, Adminname: console, UserID: 704982588, Причина Не указано"
+        ],
+        "10:13:05": [
+            "10:13:05 | Снятие прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "10:13:07": [
+            "10:13:07 | Снятие прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "10:13:48": [
+            "10:13:48 | Блокировка | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588, Причина Не_согласился_на_жесткий_секс"
+        ],
+        "10:14:20": [
+            "10:14:20 | Разблокировка | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588, Причина Насосал"
+        ],
+        "10:19:49": [
+            "10:19:49 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "10:19:51": [
+            "10:19:51 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "10:19:54": [
+            "10:19:54 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "10:19:56": [
+            "10:19:56 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "10:19:58": [
+            "10:19:58 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "10:20:59": [
+            "10:20:59 | Выбор города Переходник | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "10:21:01": [
+            "10:21:01 | Выбор города | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "10:21:05": [
+            "10:21:05 | Выбор - Могилев | UserID: 6978792645, Username: sergei_nikitka"
+        ]
+    },
+    "2024-10-08": {
+        "10:52:08": [
+            "10:52:08 | Меню | UserID: 704982588, Username: rezakat"
+        ],
+        "10:52:09": [
+            "10:52:09 | Открыты настройки | UserID: 704982588, Username: rezakat"
+        ],
+        "10:55:01": [
+            "10:55:01 | Меню | UserID: 704982588, Username: rezakat"
+        ],
+        "10:55:28": [
+            "10:55:28 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588"
+        ],
+        "10:55:30": [
+            "10:55:30 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "11:01:50": [
+            "11:01:50 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588"
+        ],
+        "11:01:51": [
+            "11:01:51 | Снятие прав администратора | AdminID: console, Adminname: console, UserID: 704982588",
+            "11:01:51 | Блокировка | AdminID: console, Adminname: console, UserID: 704982588, Причина Не указано"
+        ],
+        "11:02:23": [
+            "11:02:23 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588"
+        ],
+        "11:02:25": [
+            "11:02:25 | Выдача прав администратора | AdminID: console, Adminname: console, UserID: 704982588"
+        ],
+        "11:02:28": [
+            "11:02:28 | Блокировка | AdminID: console, Adminname: console, UserID: 704982588, Причина Не указано"
+        ],
+        "11:02:41": [
+            "11:02:41 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588"
+        ],
+        "11:02:48": [
+            "11:02:48 | Разлокировка | AdminID: console, Adminname: console, UserID: 704982588, Причина Не указано"
+        ],
+        "11:38:25": [
+            "11:38:25 | Блокировка | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065, Причина Не_любит_мужчин"
+        ],
+        "11:47:39": [
+            "11:47:39 | Разблокировка | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065, Причина 我爱你"
+        ],
+        "12:46:45": [
+            "12:46:45 | Меню | UserID: 704982588, Username: rezakat"
+        ],
+        "12:46:47": [
+            "12:46:47 | Открыты настройки (администратор) | UserID: 704982588, Username: rezakat"
+        ],
+        "12:46:48": [
+            "12:46:48 | Меню | UserID: 704982588, Username: rezakat"
+        ],
+        "12:46:50": [
+            "12:46:50 | Профиль | UserID: 704982588, Username: rezakat"
+        ],
+        "12:46:54": [
+            "12:46:54 | Меню | UserID: 704982588, Username: rezakat"
+        ],
+        "12:46:57": [
+            "12:46:57 | Выбор города Переходник | UserID: 704982588, Username: rezakat"
+        ],
+        "12:46:59": [
+            "12:46:59 | Выбор города | UserID: 704982588, Username: rezakat"
+        ],
+        "12:47:01": [
+            "12:47:01 | Выбор - Могилев | UserID: 704982588, Username: rezakat"
+        ],
+        "12:47:02": [
+            "12:47:02 | Могилев - Движ | UserID: 704982588, Username: rezakat"
+        ],
+        "12:47:05": [
+            "12:47:05 | Меню | UserID: 704982588, Username: rezakat"
+        ],
+        "12:47:06": [
+            "12:47:06 | Открыты настройки (администратор) | UserID: 704982588, Username: rezakat"
+        ],
+        "12:47:12": [
+            "12:47:12 | Открыты настройки (администратор) | UserID: 704982588, Username: rezakat"
+        ],
+        "12:47:13": [
+            "12:47:13 | Меню | UserID: 704982588, Username: rezakat"
+        ],
+        "12:47:17": [
+            "12:47:17 | Открыты настройки (администратор) | UserID: 704982588, Username: rezakat"
+        ]
+    },
+    "2024-10-10": {
+        "17:42:22": [
+            "17:42:22 | Login | UserID: 6978792645, Username: sergei_nikitka"
+        ]
+    },
+    "2024-10-16": {
+        "17:06:23": [
+            "17:06:23 | Выбор города Переходник | UserID: 7163699743, Username: Lada_Marena"
+        ],
+        "17:06:26": [
+            "17:06:26 | Выбор города | UserID: 7163699743, Username: Lada_Marena"
+        ],
+        "17:06:45": [
+            "17:06:45 | Выбор города Переходник | UserID: 7163699743, Username: Lada_Marena"
+        ],
+        "17:06:48": [
+            "17:06:48 | Выбор города | UserID: 7163699743, Username: Lada_Marena"
+        ],
+        "17:06:58": [
+            "17:06:58 | Выбор - Могилев | UserID: 7163699743, Username: Lada_Marena"
+        ],
+        "17:07:03": [
+            "17:07:03 | Могилев - Прогулки | UserID: 7163699743, Username: Lada_Marena"
+        ]
+    },
+    "2024-10-17": {
+        "16:14:15": [
+            "16:14:15 | Выбор города Переходник | UserID: 6577582943, Username: rizz_mitya"
+        ],
+        "16:14:17": [
+            "16:14:17 | Выбор города | UserID: 6577582943, Username: rizz_mitya"
+        ],
+        "16:14:19": [
+            "16:14:19 | Выбор - Могилев | UserID: 6577582943, Username: rizz_mitya"
+        ],
+        "16:14:23": [
+            "16:14:23 | Могилев - Прогулки | UserID: 6577582943, Username: rizz_mitya"
+        ],
+        "16:14:28": [
+            "16:14:28 | Могилев - История | UserID: 6577582943, Username: rizz_mitya"
+        ],
+        "16:16:21": [
+            "16:16:21 | Выбор города Переходник | UserID: 6577582943, Username: rizz_mitya"
+        ],
+        "16:16:22": [
+            "16:16:22 | Выбор города | UserID: 6577582943, Username: rizz_mitya"
+        ],
+        "16:16:28": [
+            "16:16:28 | Выбор - Могилев | UserID: 6577582943, Username: rizz_mitya"
+        ],
+        "16:29:34": [
+            "16:29:34 | Открыты настройки | UserID: 6577582943, Username: rizz_mitya"
+        ],
+        "16:29:44": [
+            "16:29:44 | Профиль | UserID: 6577582943, Username: rizz_mitya"
+        ],
+        "16:29:53": [
+            "16:29:53 | Удаление данных | UserID: 6577582943, Username: rizz_mitya"
+        ]
+    },
+    "2024-10-18": {
+        "10:54:38": [
+            "10:54:38 | Выбор города Переходник | UserID: 2117271556, Username: DEMDILA"
+        ],
+        "10:54:40": [
+            "10:54:40 | Выбор города | UserID: 2117271556, Username: DEMDILA"
+        ],
+        "10:54:41": [
+            "10:54:41 | Выбор - Могилев | UserID: 2117271556, Username: DEMDILA"
+        ],
+        "10:54:44": [
+            "10:54:44 | Могилев - История | UserID: 2117271556, Username: DEMDILA"
+        ],
+        "10:54:59": [
+            "10:54:59 | Могилев - Прогулки | UserID: 2117271556, Username: DEMDILA",
+            "10:54:59 | Могилев - История | UserID: 2117271556, Username: DEMDILA"
+        ],
+        "13:34:27": [
+            "13:34:27 | Запрос истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "13:34:28": [
+            "13:34:28 | Выдача истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "13:35:41": [
+            "13:35:41 | Блокировка | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6577582943, Причина Удаление_данных"
+        ],
+        "13:37:17": [
+            "13:37:17 | Разблокировка | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6577582943, Причина Восстановлен"
+        ],
+        "13:38:03": [
+            "13:38:03 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 2117271556"
+        ],
+        "13:40:03": [
+            "13:40:03 | Блокировка | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 2117271556, Причина Несогласованное-получение-доступа"
+        ],
+        "13:53:49": [
+            "13:53:49 | Разблокировка | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 2117271556, Причина 1"
+        ]
+    },
+    "2024-10-23": {
+        "18:46:24": [
+            "18:46:24 | Запрос истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "18:46:25": [
+            "18:46:25 | Выдача истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "21:05:21": [
+            "21:05:21 | Запрос истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "21:05:22": [
+            "21:05:22 | Выдача истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "21:27:49": [
+            "21:27:49 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6978792645, Текст: ТЕСТ МСГ"
+        ],
+        "21:28:26": [
+            "21:28:26 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6978792645, Текст: ТЕСТ МСГ"
+        ],
+        "21:30:39": [
+            "21:30:39 | Запрос данных пользоватеелей | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "21:30:41": [
+            "21:30:41 | Выдача данных пользоватеелей | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "21:30:54": [
+            "21:30:54 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065, Текст: Твой рот ебал"
+        ],
+        "21:40:16": [
+            "21:40:16 | Запрос истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "21:40:17": [
+            "21:40:17 | Выдача истории действий | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ]
+    },
+    "2024-10-24": {
+        "08:19:39": [
+            "08:19:39 | Запрос данных пользоватеелей | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "08:19:40": [
+            "08:19:40 | Выдача данных пользоватеелей | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "08:21:30": [
+            "08:21:30 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588, Текст: Ты ещё пить будешь?"
+        ],
+        "08:22:02": [
+            "08:22:02 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065, Текст: Я обиделся"
+        ],
+        "08:46:57": [
+            "08:46:57 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 902400084"
+        ],
+        "08:47:23": [
+            "08:47:23 | Поиск | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 902400084"
+        ],
+        "08:50:54": [
+            "08:50:54 | Direct Message | AdminID: 704982588, Adminname: rezakat, UserID: 6978792645, Текст: да"
+        ],
+        "08:51:25": [
+            "08:51:25 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588, Текст: синий остался"
+        ],
+        "08:51:36": [
+            "08:51:36 | Direct Message | AdminID: 704982588, Adminname: rezakat, UserID: 6978792645, Текст: оо"
+        ],
+        "08:51:58": [
+            "08:51:58 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588, Текст: Дада радуйся"
+        ],
+        "08:52:04": [
+            "08:52:04 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588, Текст: все для тебяяяяя"
+        ],
+        "08:52:09": [
+            "08:52:09 | Direct Message | AdminID: 704982588, Adminname: rezakat, UserID: 6978792645, Текст: радуюсь"
+        ],
+        "08:52:21": [
+            "08:52:21 | Direct Message | AdminID: 704982588, Adminname: rezakat, UserID: 6978792645, Текст: рассветы и туманы"
+        ],
+        "08:52:28": [
+            "08:52:28 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588, Текст: для тебя"
+        ],
+        "08:52:56": [
+            "08:52:56 | Direct Message | AdminID: 704982588, Adminname: rezakat, UserID: 6978792645, Текст: моря и океаны"
+        ],
+        "08:53:27": [
+            "08:53:27 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588, Текст: неправильно! Правильный ответ: БУТЫЛКА Dynamit Original"
+        ],
+        "08:53:51": [
+            "08:53:51 | Direct Message | AdminID: 704982588, Adminname: rezakat, UserID: 6978792645, Текст: хвхахахаха"
+        ],
+        "08:54:27": [
+            "08:54:27 | Direct Message | AdminID: 704982588, Adminname: rezakat, UserID: 6978792645, Текст: В моей судьбе есть только ты\nОдна любовь и боль моя\nС тобою повстречались мы\nРодная женщина моя\nТо ли на радость – то ли на беду\nТы знай, что я тебя одну люблю\n(Ты знай, что я тебя одну люблю)\nВсе для тебя - рассветы и туманы\nДля тебя - моря и океаны\nДля тебя - цветочные поляны\nДля тебя\nЛишь для тебя – горят на небе звезды\nДля тебя – безумный мир наш создан\nДля тебя – живу и я под солнцем\nДля тебя\nЛишь для тебя – живу и я под солнцем\nДля тебя\nИграя с волнами судьбы\nПлывем два белых корабля\nНадежды, счастья и любви\nПошлет нам небо паруса\nМы так хотим в океане мечты\nОстров свой найти (Остров свой найти)\nВсе для тебя - рассветы и туманы\nДля тебя - моря и океаны\nДля тебя - цветочные поляны\nДля тебя\nЛишь для тебя – горят на небе звезды\nДля тебя – безумный мир наш создан\nДля тебя – живу и я под солнцем\nДля тебя\nВсе для тебя - рассветы и туманы\nДля тебя - моря и океаны\nДля тебя - цветочные поляны\nДля тебя\nЛишь для тебя – горят на небе звезды\nДля тебя – безумный мир наш создан\nДля тебя – живу и я под солнцем\nДля тебя\nЛишь для тебя – живу и я под солнцем\nДля тебя"
+        ],
+        "13:32:09": [
+            "13:32:09 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 704982588, Текст: тут"
+        ],
+        "15:10:44": [
+            "15:10:44 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 5001983065, Текст: Жду к 16:00"
+        ],
+        "16:34:13": [
+            "16:34:13 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "16:34:14": [
+            "16:34:14 | Выбор города Переходник | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "16:34:15": [
+            "16:34:15 | Выбор города | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "16:34:54": [
+            "16:34:54 | Выбор города Переходник | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "16:34:56": [
+            "16:34:56 | Выбор города | UserID: 6978792645, Username: sergei_nikitka"
+        ]
+    },
+    "2024-11-03": {
+        "23:04:06": [
+            "23:04:06 | Выбор города Переходник | UserID: 6978792645, Username: sergei_nikitka"
+        ]
+    },
+    "2024-11-04": {
+        "08:32:51": [
+            "08:32:51 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "08:32:55": [
+            "08:32:55 | Открыты настройки (администратор) | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "08:32:57": [
+            "08:32:57 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "08:33:11": [
+            "08:33:11 | Direct Message | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 123, Текст: e"
+        ]
+    },
+    "2024-11-11": {
+        "17:40:04": [
+            "17:40:04 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "17:40:06": [
+            "17:40:06 | Выбор города Переходник | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "17:40:08": [
+            "17:40:08 | Выбор города | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "17:40:11": [
+            "17:40:11 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "17:40:17": [
+            "17:40:17 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "17:40:18": [
+            "17:40:18 | Открыты настройки (администратор) | UserID: 6978792645, Username: sergei_nikitka"
+        ],
+        "17:40:19": [
+            "17:40:19 | Меню | UserID: 6978792645, Username: sergei_nikitka"
+        ]
+    }
+}
