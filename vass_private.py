@@ -1,14 +1,15 @@
 import json
 import telebot
 import requests
-API_TOKEN = '7347749794:AAEEs0RKg-VE-1TxxMrSwWCccH_JY9QUoO4'  # Замените на ваш токен
-bot = telebot.TeleBot(API_TOKEN, threaded=False)
+from config import TOKEN
+API_TOKENN = '7347749794:AAEEs0RKg-VE-1TxxMrSwWCccH_JY9QUoO4'  # Замените на ваш токен
+bot = telebot.TeleBot(API_TOKENN, threaded=False)
 BNGIVETEXTV = f'Вам выдали BN Plus\n\nТеперь:\n1.Отключено видео\n2.Доступен раздел "DVIZH"\n3.Редактирование профиля*\n4.Общение с другими пользователями\n5.И еще какая-то штучка'
 BNGIVETEXTZ = f'Ваш BN Plus деактивирован администратором'
 SETADMIN = f'Вас повысили до Администратора'
 SETUSER = f'Ваш аккаунт администратора деактивирован'
 SETUSERLOG = f'CONSOLE LOG | SETUSER | '
-TOKEN = '6501184236:AAG1uvyzQyn5HqXJwWZbT1kNoUHGdc452jo'
+TOKENN = TOKEN
 import json
 def info():
     print('| | | | | | | | | | | | |')
@@ -312,7 +313,7 @@ def ban_user(user_id, admin_id, admin_us, reason):
             users_data[user_id]['ban'] = 'True'
             # Сохраняем изменения обратно в файл
             msg = f'Ваш аккаунт заблокирован\n\nАдминистратор: @{admin_us} ({admin_id})\nПричина: {reason}'
-            url = f'https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={user_id}&text={msg}'
+            url = f'https://api.telegram.org/bot{TOKENN}/sendMessage?chat_id={user_id}&text={msg}'
             requests.get(url)
             with open('users.json', 'w') as file:
                 json.dump(users_data, file, indent=4, ensure_ascii=False)
@@ -343,7 +344,7 @@ def login_true(user_id):
             users_data[user_id]['login'] = 'True'
             # Сохраняем изменения обратно в файл
             msg = f'Системное сообщение\n\nИзменение настроек приватности\nАвторизация включена'
-            url = f'https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={user_id}&text={msg}'
+            url = f'https://api.telegram.org/bot{TOKENN}/sendMessage?chat_id={user_id}&text={msg}'
 
             with open('users.json', 'w') as file:
                 json.dump(users_data, file, indent=4, ensure_ascii=False)
@@ -375,7 +376,7 @@ def login_false(user_id):
             users_data[user_id]['login'] = 'False'
             # Сохраняем изменения обратно в файл
             msg = f'Системное сообщение\n\nИзменение настроек приватности\nАвторизация отключена'
-            url = f'https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={user_id}&text={msg}'
+            url = f'https://api.telegram.org/bot{TOKENN}/sendMessage?chat_id={user_id}&text={msg}'
 
             with open('users.json', 'w') as file:
                 json.dump(users_data, file, indent=4, ensure_ascii=False)
@@ -464,7 +465,7 @@ def unban_user(user_id, admin_id, admin_us, reason):
         # Проверяем наличие пользователя
         if user_id in users_data:
             msg = f'Ваш аккаунт разблокирован\n\nАдминистратор: @{admin_us} ({admin_id})\nПричина: {reason}'
-            url = f'https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={user_id}&text={msg}'
+            url = f'https://api.telegram.org/bot{TOKENN}/sendMessage?chat_id={user_id}&text={msg}'
             requests.get(url)
             # Устанавливаем значение 'ban' в true
             users_data[user_id]['ban'] = 'False'
@@ -486,7 +487,7 @@ def set_admin(user_id):
         # Открываем пользователи
         with open('users.json', 'r') as file:
             users_data = json.load(file)
-        url = f'https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={user_id}&text={SETADMIN}'
+        url = f'https://api.telegram.org/bot{TOKENN}/sendMessage?chat_id={user_id}&text={SETADMIN}'
         requests.get(url)
         # Проверяем наличие пользователя
         if user_id in users_data:
@@ -513,7 +514,7 @@ def set_premium(user_id):
 
         # Проверяем наличие пользователя
         if user_id in users_data:
-            url = f'https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={user_id}&text={BNGIVETEXTV}'
+            url = f'https://api.telegram.org/bot{TOKENN}/sendMessage?chat_id={user_id}&text={BNGIVETEXTV}'
             requests.get(url)
             # Устанавливаем значение 'ban' в true
             users_data[user_id]['premium'] = 'True'
@@ -541,7 +542,7 @@ def den_premium(user_id):
 
         # Проверяем наличие пользователя
         if user_id in users_data:
-            url = f'https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={user_id}&text={BNGIVETEXTZ}'
+            url = f'https://api.telegram.org/bot{TOKENN}/sendMessage?chat_id={user_id}&text={BNGIVETEXTZ}'
             requests.get(url)
             # Устанавливаем значение 'ban' в true
             users_data[user_id]['premium'] = 'False'
@@ -569,7 +570,7 @@ def set_user(user_id):
 
         # Проверяем наличие пользователя
         if user_id in users_data:
-            url = f'https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={user_id}&text={SETUSER}'
+            url = f'https://api.telegram.org/bot{TOKENN}/sendMessage?chat_id={user_id}&text={SETUSER}'
             requests.get(url)
             # Устанавливаем значение 'ban' в true
             users_data[user_id]['status'] = 'user'
@@ -592,7 +593,7 @@ def to_msg(us_id, msg, own_id, own_us):
     to_msg_text = f"Получено новое сообщение\nОтправитель: @{own_us} ({own_id})\nПолучатель: Вы {us_id}\n\n---\n{msg}\n---\nДля ответа: /to {own_id} текст"
 
     # Кодирование параметров текста в URL
-    url = f'https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={us_id}&text={to_msg_text}'
+    url = f'https://api.telegram.org/bot{TOKENN}/sendMessage?chat_id={us_id}&text={to_msg_text}'
     with open('users.json', 'r') as file:
         users_data = json.load(file)
 

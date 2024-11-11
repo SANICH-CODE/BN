@@ -21,6 +21,9 @@
         "18:11:10": [
             "18:11:10 | Запрос данных пользоватеелей | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System",
             "18:11:10 | Выдача данных пользоватеелей | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: System"
+        ],
+        "20:40:53": [
+            "20:40:53 | Выдача BN Plus | AdminID: 6978792645, Adminname: sergei_nikitka, UserID: 6978792645"
         ]
     }
 }

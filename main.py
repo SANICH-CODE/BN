@@ -8,7 +8,7 @@ import vass_private
 PROXY_API_KEY = 'sk-04QYlQmpbMQFmMJMhB6o4Z9N0sqMcrBy'
 from threading import Thread
 from telebot import *
-from vass_private import TOKEN
+from config import TOKEN
 import json
 bot = telebot.TeleBot(TOKEN)
 
@@ -62,7 +62,7 @@ def welcome(message):
         deep_link = message.text.split()[1]  # Получаем часть после /start
     else:
         deep_link = None
-    # Обработка deep-linking
+#    ОБРАБОТКА СОДЕРЖАНИЯ УРЛА
     if deep_link == 'minsk_1':
         bot.send_message(chat_id, 'Вы выбрали Minsk 1')
     elif deep_link == 'minsk_2':
@@ -146,7 +146,7 @@ def zero_command(message):
 def set_premium(message):
     endpoint = 'https://clck.ru/--'
 
-    if vass_private.is_admin(message.from_user.id):
+    if vass_private.is_premium(message.from_user.id):
         if len(message.text.split()) != 2:
             bot.send_message(message.chat.id, "Использование: /clck [ссылка]")
             return
@@ -161,7 +161,7 @@ def set_premium(message):
         else:
             bot.send_message(message.chat.id, "Ошибка при сокращении ссылки. Попробуйте еще раз позже.")
     else:
-        bot.send_message(message.chat.id, "У вас нет доступа к этой команде")
+        bot.send_message(message.chat.id, "У вас нет доступа к этой команде\nДля доступа купите BN Plus")
 
 
 
