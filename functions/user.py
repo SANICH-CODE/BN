@@ -2,7 +2,7 @@ from testf import loggingf, adminloggingf, banloggingf
 import requests
 import ru
 from functions import admin, flog
-from functions.other import generate_password
+
 import vass_private
 import os
 PROXY_API_KEY = 'sk-04QYlQmpbMQFmMJMhB6o4Z9N0sqMcrBy'

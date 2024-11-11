@@ -2,7 +2,6 @@ from testf import loggingf, adminloggingf, banloggingf
 import requests
 import ru
 from functions import user, admin
-from functions.other import generate_password
 import vass_private
 import os
 PROXY_API_KEY = 'sk-04QYlQmpbMQFmMJMhB6o4Z9N0sqMcrBy'
@@ -24,8 +23,8 @@ def register_commands(bot):
     def get_logs_command(message):
         if vass_private.is_admin(message.from_user.id):
             adminloggingf("System", "Запрос истории действий", message.from_user.id, message.from_user.username)
-            if os.path.exists('../logs.json'):
-                with open('../logs.json', 'rb') as file:
+            if os.path.exists('./logs.json'):
+                with open('./logs.json', 'rb') as file:
                     bot.send_document(message.chat.id, file, caption="Содержимое файла строго конфиденциально")
                     adminloggingf("System", "Выдача истории действий", message.from_user.id, message.from_user.username)
 
@@ -38,8 +37,8 @@ def register_commands(bot):
     def get_logs_command(message):
         if vass_private.is_admin(message.from_user.id):
             adminloggingf("System", "Запрос истории действий", message.from_user.id, message.from_user.username)
-            if os.path.exists('../old-logs.json'):
-                with open('../old-logs.json', 'rb') as file:
+            if os.path.exists('./old-logs.json'):
+                with open('./old-logs.json', 'rb') as file:
                     bot.send_document(message.chat.id, file, caption="Содержимое файла строго конфиденциально")
                     adminloggingf("System", "Выдача истории действий", message.from_user.id, message.from_user.username)
 
