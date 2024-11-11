@@ -18,42 +18,12 @@ app = Flask(__name__)
 current_date = datetime.date.today()
 current_date_time = datetime.datetime.now()
 current_time = current_date_time.time()
-
-
-class LoGs:
-    @staticmethod
-    def is_admin(user_id):
-        return user_id in [6978792645]  # Замените на ID администраторов
-
-    @staticmethod
-    def get_user_logs(user_id):
-        # Чтение логов из файла logs.json
-        try:
-            with open('logs.json', 'r', encoding='utf-8') as f:
-                logs_data = json.load(f)
-        except FileNotFoundError:
-            return []  # Вернуть пустой список, если файл не найден
-        except json.JSONDecodeError:
-            return []  # Вернуть пустой список, если файл поврежден
-
-        user_logs = []
-        # Проходим по всем датам и временным меткам, чтобы найти логи для данного пользователя
-        for date, entries in logs_data.items():
-            for time, log_list in entries.items():
-                for log in log_list:
-                    if f'UserID: {user_id}' in log:
-                        user_logs.append(f"{date} {time} | {log}")
-
-        return user_logs
-
-
-logs = LoGs()
+#TODO Сократить
 def register_commands(bot):
     @bot.message_handler(commands=['getlogs'])
     def get_logs_command(message):
         if vass_private.is_admin(message.from_user.id):
             adminloggingf("System", "Запрос истории действий", message.from_user.id, message.from_user.username)
-            # Проверка существования файла logs.json
             if os.path.exists('../logs.json'):
                 with open('../logs.json', 'rb') as file:
                     bot.send_document(message.chat.id, file, caption="Содержимое файла строго конфиденциально")
@@ -68,7 +38,6 @@ def register_commands(bot):
     def get_logs_command(message):
         if vass_private.is_admin(message.from_user.id):
             adminloggingf("System", "Запрос истории действий", message.from_user.id, message.from_user.username)
-            # Проверка существования файла logs.json
             if os.path.exists('../old-logs.json'):
                 with open('../old-logs.json', 'rb') as file:
                     bot.send_document(message.chat.id, file, caption="Содержимое файла строго конфиденциально")

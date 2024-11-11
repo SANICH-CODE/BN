@@ -2,8 +2,7 @@ import json
 import telebot
 import requests
 from config import TOKEN
-API_TOKENN = '7347749794:AAEEs0RKg-VE-1TxxMrSwWCccH_JY9QUoO4'  # Замените на ваш токен
-bot = telebot.TeleBot(API_TOKENN, threaded=False)
+
 BNGIVETEXTV = f'Вам выдали BN Plus\n\nТеперь:\n1.Отключено видео\n2.Доступен раздел "DVIZH"\n3.Редактирование профиля*\n4.Общение с другими пользователями\n5.И еще какая-то штучка'
 BNGIVETEXTZ = f'Ваш BN Plus деактивирован администратором'
 SETADMIN = f'Вас повысили до Администратора'
@@ -16,8 +15,7 @@ def info():
     print('| | |  VASS GROUP | | | |')
     print('| |  Sergei Nikitko | | |')
     print('| | | |BN T E A M | | | |')
-    print('| | | V. 0.0.9 REF  | | |')
-    print('| | | | B E T A | | | | |')
+    print('| | |  V. 0.12.1  | | | |')
     print('| | | | | | | | | | | | |')
 
 def start():

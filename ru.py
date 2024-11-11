@@ -1,28 +1,18 @@
 import datetime
-from email import message
 import requests
-import shutil
-from telebot.types import LabeledPrice, Invoice, PreCheckoutQuery
 user_states = {}
-
 from testf import loggingf, adminloggingf, banloggingf
-
 current_date = datetime.date.today()
 current_date_time = datetime.datetime.now()
 current_time = current_date_time.time()
 from telebot import *
 import vass_private
+from functions.other import generate_password
 import json
 from config import TOKEN
 import random
-
-def generate_password():
-    return ''.join(random.choices('0123456789', k=6))
-# Создаем экземпляр объекта бота
 bot = telebot.TeleBot('6501184236:AAG1uvyzQyn5HqXJwWZbT1kNoUHGdc452jo')
-
 import pytz
-
 users = {}
 import sys
 

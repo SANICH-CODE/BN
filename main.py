@@ -145,7 +145,7 @@ def zero_command(message):
 @bot.message_handler(commands=['clck'])
 def set_premium(message):
     endpoint = 'https://clck.ru/--'
-
+#TODO Перенести в functions/other.py
     if vass_private.is_premium(message.from_user.id):
         if len(message.text.split()) != 2:
             bot.send_message(message.chat.id, "Использование: /clck [ссылка]")
