@@ -52,7 +52,7 @@
         "tester": "False",
         "RegDate": "2024-10-10",
         "RegTime": "18:07:39.561329",
-        "status": "Tester",
+        "status": "user",
         "ban": "False"
     },
     "7163699743": {
@@ -66,7 +66,7 @@
         "tester": "False",
         "RegDate": "2024-10-10",
         "RegTime": "18:07:39.561329",
-        "status": "Tester",
+        "status": "user",
         "ban": "False"
     },
     "6577582943": {
@@ -83,48 +83,6 @@
         "status": "Tester",
         "ban": "False"
     },
-    "2117271556": {
-        "username": "DEMDILA",
-        "password": "160326",
-        "login": "True",
-        "premium": "False",
-        "out": "False",
-        "notify": "True",
-        "hiden": "False",
-        "tester": "False",
-        "RegDate": "2024-10-17",
-        "RegTime": "18:47:47.322391",
-        "status": "Tester",
-        "ban": "False"
-    },
-    "123123123": {
-        "username": "TEST USER ACCOUNT",
-        "password": "123123",
-        "login": "True",
-        "premium": "False",
-        "out": "False",
-        "notify": "True",
-        "hiden": "False",
-        "tester": "False",
-        "RegDate": "2024-10-17",
-        "RegTime": "18:47:47.322391",
-        "status": "Tester",
-        "ban": "False"
-    },
-    "123123": {
-        "username": "TEST ADMIN ACCOUNT",
-        "password": "123123",
-        "login": "True",
-        "premium": "True",
-        "out": "False",
-        "notify": "True",
-        "hiden": "False",
-        "tester": "False",
-        "RegDate": "2024-10-17",
-        "RegTime": "18:47:47.322391",
-        "status": "Admin",
-        "ban": "False"
-    },
     "902400084": {
         "username": "aryslanovatt",
         "password": "683821",
@@ -136,7 +94,7 @@
         "tester": "False",
         "RegDate": "2024-10-17",
         "RegTime": "18:47:47.322391",
-        "status": "Tester",
+        "status": "user",
         "ban": "False"
     }
 }
